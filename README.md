@@ -3,7 +3,9 @@
 ## Disclaimer
 
 This project was rushed in order to reach the release state as fast as possible, tests on critical paths
-were added in order to assure the minimum level of reliability.
+were added in order to assure the minimum level of reliability. 
+
+The only part of the code that was given special attention is the src/http_utils.py file as it is most likeley the one that will see the most reusability. 
 
 ## TODO
 
